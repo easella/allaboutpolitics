@@ -1,4 +1,4 @@
 git clone https://github.com/titaniumnetwork-dev/alloyproxy.git
-cd alloyproxy
+cd politics
 
 node server.js
